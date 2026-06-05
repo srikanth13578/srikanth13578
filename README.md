@@ -1,6 +1,8 @@
 # Hi there, I'm Srikanth 👋
 
-I am a Master of Computer Applications (MCA) student and an aspiring Software Engineer. I specialize in building full-stack applications and solving complex algorithmic challenges. Currently focused on mastering Data Structures & Algorithms (DSA) and optimizing backend systems for technical placements.
+# Hi there, I'm Srikanth 👋
+
+I am a Master of Computer Applications (MCA) student at R. V. College of Engineering and an aspiring Software Engineer. I specialize in building full-stack applications and solving complex algorithmic challenges. Currently focused on mastering Data Structures & Algorithms (DSA) and optimizing backend systems for technical placements.
 
 ---
 

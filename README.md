@@ -49,7 +49,3 @@ I am a Master of Computer Applications (MCA) student at R. V. College of Enginee
 | :---: | :---: |
 | <img src="https://github-readme-stats.shion.dev/api?username=srikanth13578&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400px"/> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=srikanth13578&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350px"/> |
 ---
-
-### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/m-srikanth-bb7b39387](https://www.linkedin.com/in/m-srikanth-bb7b39387/)
-- **Email:** srikanthsriko@gamil.com

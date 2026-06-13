@@ -28,7 +28,7 @@ I am a Master of Computer Applications (MCA) student at R. V. College of Enginee
 
 ### 🚀 Featured Project
 
-📂 **[Car Rental System](Link-to-your-repo)**
+📂 **[Car Rental System](https://github.com/srikanth13578/car_rental_system)**
 *A comprehensive full-stack enterprise web application designed to manage vehicle listings, reservations, and customer tracking.*
 - **Frontend:** Angular (Component-driven architecture, reactive forms, router guards)
 - **Backend:** Spring Boot (RESTful API architecture, Spring Security, Hibernate ORM)

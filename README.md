@@ -29,7 +29,7 @@ I am a Master of Computer Applications (MCA) student at R. V. College of Enginee
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### ☁️ Cloud, Mobile & DevOps
+### ☁️ Cloud & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 

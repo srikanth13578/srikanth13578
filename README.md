@@ -48,7 +48,7 @@ I am a Master of Computer Applications (MCA) student at R. V. College of Enginee
 
 ### 🚀 Featured Project
 
-📂 **[Car Rental System](https://github.com)**  
+📂 **[Car Rental System](https://github.com/srikanth13578/Car_Rental_System)**  
 *A production-grade, multi-tier enterprise web application engineered to manage vehicle lifecycles, role-based reservations, and dynamic state transitions.*
 
 - **Containerization & Orchestration:** Fully containerized utilizing **Docker** and orchestrated with **Docker Compose** to deliver a predictable, multi-container production stack.

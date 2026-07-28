@@ -48,12 +48,13 @@ I am a Master of Computer Applications (MCA) student at R. V. College of Enginee
 
 ### 🚀 Featured Project
 
-📂 **[Car Rental System](https://github.com/srikanth13578/car_rental_system)**
-*A comprehensive full-stack enterprise web application designed to manage vehicle listings, reservations, and customer tracking.*
-- **Frontend:** Angular (Component-driven architecture, reactive forms, router guards)
-- **Backend:** Spring Boot (RESTful API architecture, Spring Security, Hibernate ORM)
-- **Database:** MySQL (Relational schema design, optimized complex join queries)
-- **Key Feature:** Built end-to-end user authentication and seamless reservation state transitions.
+📂 **[Car Rental System](https://github.com)**  
+*A production-grade, multi-tier enterprise web application engineered to manage vehicle lifecycles, role-based reservations, and dynamic state transitions.*
+
+- **Containerization & Orchestration:** Fully containerized utilizing **Docker** and orchestrated with **Docker Compose** to deliver a predictable, multi-container production stack.
+- **Frontend:** Angular 16 (Component-driven layout, RxJS stream data management, and strict compilation asset budget handling) optimized and served via high-performance **Nginx** reverse proxies.
+- **Backend:** Spring Boot (RESTful API, Spring Security framework, and Hibernate ORM integration) dynamically overriding environment configurations at runtime on **Eclipse Temurin OpenJDK 17**.
+- **Database:** MySQL relational engine utilizing localized memory volume mappings to enforce absolute data consistency across execution lifecycles.
 
 ---
 

@@ -1,6 +1,11 @@
 # Hi there, I'm Srikanth 👋
 
-I am a Master of Computer Applications (MCA) student at R. V. College of Engineering and an aspiring Software Engineer. I specialize in building full-stack applications and solving complex algorithmic challenges. Currently focused on mastering Data Structures & Algorithms (DSA) and optimizing backend systems for technical placements.
+I am a Master of Computer Applications (MCA) student at R.V. College of Engineering (RVCE) and an aspiring Full-Stack Software Engineer. I specialize in building scalable, containerized enterprise applications and engineering robust cloud solutions. Currently optimizing my core problem-solving capabilities in Data Structures & Algorithms (DSA) and preparing for upcoming technical placement opportunities.
+
+- 🔭 **Active Focus:** Backend Architecture, Cloud Integrations & DevOps practices.
+- ⚙️ **Core Philosophy:** Writing highly optimized, clean, and object-oriented (OOPs) code.
+- 🤝 **Open to:** Software Engineering Internships and Full-Stack Developer career tracks.
+
 
 ---
 
@@ -46,15 +51,16 @@ I am a Master of Computer Applications (MCA) student at R. V. College of Enginee
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured System Deployment
 
 📂 **[Car Rental System](https://github.com/srikanth13578/Car_Rental_System)**  
-*A production-grade, multi-tier enterprise web application engineered to manage vehicle lifecycles, role-based reservations, and dynamic state transitions.*
+*A production-grade, multi-tier enterprise web ecosystem engineered to automate end-to-end vehicle lifecycles, role-based reservation trees, and secure customer workflows.*
 
-- **Containerization & Orchestration:** Fully containerized utilizing **Docker** and orchestrated with **Docker Compose** to deliver a predictable, multi-container production stack.
-- **Frontend:** Angular 16 (Component-driven layout, RxJS stream data management, and strict compilation asset budget handling) optimized and served via high-performance **Nginx** reverse proxies.
-- **Backend:** Spring Boot (RESTful API, Spring Security framework, and Hibernate ORM integration) dynamically overriding environment configurations at runtime on **Eclipse Temurin OpenJDK 17**.
-- **Database:** MySQL relational engine utilizing localized memory volume mappings to enforce absolute data consistency across execution lifecycles.
+- 🌐 **Live Application Link:** [Launch Car Rental System](https://eloquent-illumination-production-5301.up.railway.app)
+- ☁️ **DevOps & Cloud Orchestration:** Fully containerized via multi-stage **Docker** contexts and orchestrated using **Docker Compose** parameters to isolate independent application services flawlessly.
+- ☕ **Backend Architecture:** Built a high-throughput Java **Spring Boot** REST API layered with **Spring Security** filters, automated **Hibernate ORM** schema mappings, and robust transactional verification layers.
+- 🅰️ **Frontend Engineering:** Crafted an optimized, component-driven user interface in **Angular 16** powered by **RxJS** stream handlers, with static assets packaged and served globally using a high-performance **Nginx** web proxy engine.
+- 🗄️ **Relational Database:** Implemented a secure **MySQL** cloud persistence directory utilizing dedicated indexing architectures to guarantee data integrity across high-concurrency client sessions.
 
 ---
 

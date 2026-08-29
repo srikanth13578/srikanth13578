@@ -1,6 +1,6 @@
 # Hi there, I'm Srikanth 👋
 
-I am a Master of Computer Applications (MCA) student at R.V. College of Engineering (RVCE) and an aspiring Full-Stack Software Engineer. I specialize in building scalable, containerized enterprise applications and engineering robust cloud solutions. Currently optimizing my core problem-solving capabilities in Data Structures & Algorithms (DSA) and preparing for upcoming technical placement opportunities.
+I am a Master of Computer Applications (MCA) student at R.V. College of Engineering (RVCE) and an aspiring Full-Stack Software Engineer. I specialize in building scalable, containerized enterprise applications and engineering robust cloud solutions. 
 
 - 🔭 **Active Focus:** Backend Architecture, Cloud Integrations & DevOps practices.
 - ⚙️ **Core Philosophy:** Writing highly optimized, clean, and object-oriented (OOPs) code.

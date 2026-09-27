@@ -21,9 +21,11 @@ I am a Master of Computer Applications (MCA) student at R.V. College of Engineer
 
 ### ⚙️ Frameworks & Runtimes
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /> 
-  <img src="https://img.shields.io/badge/Angular_16-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> 
+  <img src="https://img.shields.io/badge/Angular_16-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular 16" /> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
 ### 🌐 Web Technologies & Databases

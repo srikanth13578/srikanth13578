@@ -1,4 +1,4 @@
-# Hi there, I'm Srikanth 👋
+# Hi there, I'm srikanth 👋
 
 I am a Master of Computer Applications (MCA) student at R.V. College of Engineering (RVCE) and an aspiring Full-Stack Software Engineer. I specialize in building scalable, containerized enterprise applications and engineering robust cloud solutions. 
 
